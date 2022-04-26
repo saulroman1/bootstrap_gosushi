@@ -1,0 +1,58 @@
+
+nav {
+    justify-content: flex-start;
+    flex-grow: 1;
+    padding-left: 50px;
+    
+    }
+    nav img {
+    height: 100px;
+    color: white;
+    
+    }
+    Nav span {
+    text-align: center;
+    color: aliceblue;
+    margin-left: 80%;
+    font-size: larger;
+    }
+    
+    
+    
+    .jumbotron-jumbotron-fluid {
+      
+      border-radius: 25px;
+      
+      background-color: rgba(0, 0, 0, 0.2); 
+      -webkit-backdrop-filter: blur(8px); 
+      backdrop-filter: blur(12px);
+       
+       margin-top: 20%;
+      text-align: center;
+      color: aliceblue;
+      font-size: xx-large;
+      border: 5px;
+    }
+    
+    
+    .backgrndimg {
+        min-height: 100vh;
+        
+        background-color: red;
+        background: url('https://www.rokaakor.com/wp-content/uploads/2018/11/Large-Boat-Platter-Of-Sushi.jpg') ;
+        background-size: cover;
+        
+      }
+      body{
+        background: url('https://images.pexels.com/videos/3045163/free-video-3045163.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500 ');
+        
+        
+        
+    }
+    
+    .row p{
+      color: aliceblue;
+      font-size: x-large;
+      
+    }
+    
